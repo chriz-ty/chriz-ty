@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriz-ty&label=Profile%20views&color=0e75b6&style=flat" alt="chriz-ty" /> </p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwcjNmdTB3ZHFqaGM5YjlyendlZHRkYzV6enMxOGY5aGtsY3hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" align="right" height=400 width=350>
-- 🔭 I’m currently working on Machine Learning Algorithms And App Development
+
+- 🔭 I’m currently working on __Machine Learning Algorithms And App Development__
 
 - 🌱 I’m currently learning **ML Algorithms**
 
