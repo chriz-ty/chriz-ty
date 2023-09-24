@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christy Maria Sebastian</h1>
 <h3 align="center">A passionate upcoming AI Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chriz-ty&label=Profile%20views&color=0e75b6&style=flat" alt="chriz-ty" /> </p>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwcjNmdTB3ZHFqaGM5YjlyendlZHRkYzV6enMxOGY5aGtsY3hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" align="right" height=350 width=350>
 
 - 🔭 I’m currently working on __Machine Learning Algorithms And App Development__
@@ -37,6 +37,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chriz-ty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chriz-ty&label=Profile%20views&color=0e75b6&style=flat" alt="chriz-ty" /> </p>
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=chriz-ty&icon=0&color=0)](https://visitcount.itsvg.in) -->
