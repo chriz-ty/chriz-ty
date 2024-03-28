@@ -12,7 +12,7 @@
 
 - 👨‍💻 Visit my profile at [https://bento.me/christymariasebastian](https://bento.me/christymariasebastian)
 
-- 💬 Ask me about **Python, Flutter**
+- 💬 Ask me about **Python, AI,LLMs**
 
 - 📫 How to reach me **christymariasebastian0703@gmail.com**
 
