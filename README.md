@@ -10,8 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 Visit my profile at [https://bento.me/christymariasebastian](https://bento.me/christymariasebastian)
-
+- 👨‍💻 Visit my profile at [christy-maria-sebastian-portfolio.vercel.app](https://christy-maria-sebastian-portfolio.vercel.app/)
 - 💬 Ask me about **Python, AI,LLMs**
 
 - 📫 How to reach me **christymariasebastian0703@gmail.com**
