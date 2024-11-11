@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on __Deep Learning Algorithms And Web Development__
 
-- 🌱 I’m currently learning **NLP,ANN**
+- 🌱 I’m currently learning **NLP, ANN**
 
 - 👯 I’m looking to collaborate on **NLP Projects**
 
