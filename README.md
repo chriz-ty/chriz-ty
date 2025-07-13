@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christy Maria Sebastian</h1>
-<h3 align="center">A passionate upcoming AI Developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwcjNmdTB3ZHFqaGM5YjlyendlZHRkYzV6enMxOGY5aGtsY3hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" align="right" height=350 width=350>
