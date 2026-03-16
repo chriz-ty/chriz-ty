@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwcjNmdTB3ZHFqaGM5YjlyendlZHRkYzV6enMxOGY5aGtsY3hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" align="right" height=350 width=350>
 
-- 🔭 I’m currently working on __Deep Learning Algorithms, NLP And ReactJs framework__
+- 🔭 I’m currently working on __Deep Learning and Machine Learning Algorithms__
 
-- 🌱 I’m currently learning **NLP, MERN**
+- 🌱 I’m currently learning **NLP Concepts**
 
 - 👯 I’m looking to collaborate on **NLP Projects**
 
